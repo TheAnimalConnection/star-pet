@@ -71,3 +71,7 @@ Video walkthrough of application usage: https://www.youtube.com/watch?v=HRonNTkS
 1. Comment out the route back in VSCode
 1. Push changes
 1. Redeploy
+
+## Acknowledgements
+
+On behalf of Pod Three and the Star Pet team, I'd firstly like to thank Barbara O'Brien for giving us a problem to solve, and an opportunity to make a difference in her work. 
